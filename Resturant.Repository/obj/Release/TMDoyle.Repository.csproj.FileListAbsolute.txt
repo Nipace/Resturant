@@ -1,0 +1,26 @@
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\bin\Release\TMDoyle.Repository.dll.config
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\bin\Release\TMDoyle.Repository.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\bin\Release\TMDoyle.Repository.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\bin\Release\EntityFramework.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\bin\Release\EntityFramework.SqlServer.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\bin\Release\TMDoyle.Common.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\bin\Release\TMDoyle.Common.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\bin\Release\EntityFramework.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\bin\Release\EntityFramework.SqlServer.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\obj\Release\TMDoyle.Repository.csprojResolveAssemblyReference.cache
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\obj\Release\TMDoyle.Repository.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\obj\Release\TMDoyle.Repository.pdb
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Release\TMDoyle.Repository.dll.config
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Release\TMDoyle.Repository.dll
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Release\TMDoyle.Repository.pdb
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Release\EntityFramework.dll
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Release\EntityFramework.SqlServer.dll
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Release\TMDoyle.Common.dll
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Release\RestSharp.dll
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Release\TMDoyle.Common.pdb
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Release\EntityFramework.xml
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Release\EntityFramework.SqlServer.xml
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Release\RestSharp.xml
+F:\Resturant\TMDoyle\TMDoyle.Repository\obj\Release\TMDoyle.Repository.csprojResolveAssemblyReference.cache
+F:\Resturant\TMDoyle\TMDoyle.Repository\obj\Release\TMDoyle.Repository.dll
+F:\Resturant\TMDoyle\TMDoyle.Repository\obj\Release\TMDoyle.Repository.pdb

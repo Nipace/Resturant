@@ -1,0 +1,132 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Doyle</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    @Styles.Render("~/Content/css")
+</head>
+<body>
+
+    <header class="header">
+        <div class="header-top-row">
+            <div class="logo">
+                <a href="#"><img src="~/content/images/logo.png" alt=""></a>
+            </div>
+            <ul class="header-links left">
+                <li>@Html.ActionLink("System message", "#")</li>
+                <li>@Html.ActionLink("Drivers messages", "#")</li>
+               
+            </ul>
+            <ul class="header-links right">
+                <li>@Html.ActionLink("Users", "#")</li>
+                <li>@Html.ActionLink("System logs", "#")</li>
+                <li>@Html.ActionLink("Settings", "#")</li>
+                <li>@Html.ActionLink("Profile", "#")</li>
+                <li>@Html.ActionLink("Log Out", "#")</li>
+                
+               
+            </ul>
+        </div>
+        <div class="header-bottom-row">
+            <button class="blue-color" type="button"><img src="~/content/images/tick.png" alt=""> Pending 12</button>
+            <button class="green-color" type="button"><img src="~/content/images/tick.png" alt=""> Available 20</button>
+            <button class="pantone-color" type="button">Scheduled 10</button>
+            <button class="purple-color" type="button">En Route 5</button>
+            <button class="whiskey-color" type="button">On site 43</button>
+            <button class="yellow-color" type="button">Completed 1235</button>
+            <button class="red-color" type="button">Urgent 12</button>
+            <button class="orange-color" type="button"><img src="~/content/images/tick.png" alt=""> On hold 5</button>
+            <button class="gray-color" type="button">Closed 5</button>
+            <div class="searchArea">
+                @Html.TextBox("Order", "", htmlAttributes: new { @placeholder= "Order #" })
+                @Html.TextBox("Job", "", htmlAttributes: new { @placeholder = "Job #" })
+                @Html.TextBox("Container", "", htmlAttributes: new { @placeholder = "Container #" })
+                @Html.TextBox("Seal", "", htmlAttributes: new { @placeholder = "Seal #" })
+                
+            </div>
+            <img class="show-hide-btn left" src="~/content/images/hide-btn.png" alt="">
+            <img class="show-hide-btn right" src="~/content/images/show-btn.png" alt="">
+        </div>
+    </header>
+    <section class="content-sec">
+        <div class="left-nav left-nav-wide">
+            <ul class="left-nav-list">
+                <li><a class="order" href="#">New Order</a></li>
+                <li><a class="template" href="#">Templates</a></li>
+                <li><a class="pre-dis" href="#">Pre Dispatch</a></li>
+                <li><a class="dis" href="#">Dispatched</a></li>
+                <li><a class="drivers" href="#">Drivers</a></li>
+                <li><a class="location" href="#">Locations</a></li>
+                <li><a class="equip" href="#">Equipment</a></li>
+                <li><a class="customer" href="#">Customers</a></li>
+                <li><a class="views" href="#">Views</a></li>
+                <li><a class="export" href="#">Export</a></li>
+                <li><a class="reports" href="#">Reports</a></li>
+                <li><a class="trailers" href="#">Trailers</a></li>
+                <li><a class="container" href="#">Containers</a></li>
+                <li><a class="maintenance" href="#">Maintenance</a></li>
+                <li><a class="print" href="#">Print Order</a></li>
+            </ul>
+        </div>
+        <div class="left-nav left-nav-slim">
+            <ul class="left-nav-list">
+                <li><a class="order" href="#"></a></li>
+                <li><a class="template" href="#"></a></li>
+                <li><a class="pre-dis" href="#"></a></li>
+                <li><a class="dis" href="#"></a></li>
+                <li><a class="drivers" href="#"></a></li>
+                <li><a class="location" href="#"></a></li>
+                <li><a class="equip" href="#"></a></li>
+                <li><a class="customer" href="#"></a></li>
+                <li><a class="views" href="#"></a></li>
+                <li><a class="export" href="#"></a></li>
+                <li><a class="reports" href="#"></a></li>
+                <li><a class="trailers" href="#"></a></li>
+                <li><a class="container" href="#"></a></li>
+                <li><a class="maintenance" href="#"></a></li>
+                <li><a class="print" href="#"></a></li>
+            </ul>
+        </div>
+
+        @RenderBody()
+
+    </section>
+    @Scripts.Render("~/bundles/jquery")
+    <script type="text/javascript">
+    $(document).ready(function() {
+
+        $('ul.tabs li').click(function() {
+            var tab_id = $(this).attr('data-tab');
+
+            $('ul.tabs li').removeClass('current');
+            $('.tab-content').removeClass('current');
+
+            $(this).addClass('current');
+            $("#" + tab_id).addClass('current');
+        })
+
+        $('ul.tabsR li').click(function() {
+            var tab_id = $(this).attr('data-tabR');
+
+            $('ul.tabsR li').removeClass('currentR');
+            $('.tab-contentR').removeClass('currentR');
+
+            $(this).addClass('currentR');
+            $("#" + tab_id).addClass('currentR');
+        })
+
+        $('.show-hide-btn').click(function() {
+            $('.left-nav-wide').toggleClass('left-nav-hide');
+            $('.contentArea').toggleClass('contentAreaWider');
+            $('.show-hide-btn.right').toggleClass('show-right');
+            $('.header').toggleClass('headerWider');
+        });
+
+    })
+    </script>
+    @*@Scripts.Render("~/bundles/bootstrap")*@
+    @RenderSection("scripts", required: false)
+
+
+</body>
+</html>

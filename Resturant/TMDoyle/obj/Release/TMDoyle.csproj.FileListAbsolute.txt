@@ -1,0 +1,210 @@
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\ApplicationInsights.config
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\roslyn\csc.exe
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\roslyn\System.Collections.Immutable.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\roslyn\vbc.exe
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\roslyn\VBCSCompiler.exe
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\roslyn\VBCSCompiler.exe.config
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\TMDoyle.dll.config
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\TMDoyle.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\TMDoyle.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Antlr3.Runtime.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Bootstrapper.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\EntityFramework.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\EntityFramework.SqlServer.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.AI.DependencyCollector.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.AI.Web.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.AI.WindowsServer.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.ApplicationInsights.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.AspNet.Identity.Core.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.AspNet.Identity.Owin.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Owin.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.Cookies.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.Facebook.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.Google.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.OAuth.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.Twitter.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Practices.ServiceLocation.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Web.Infrastructure.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Newtonsoft.Json.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Owin.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\System.Web.Helpers.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\System.Web.Mvc.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\System.Web.Optimization.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\System.Web.Razor.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\System.Web.WebPages.Deployment.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\System.Web.WebPages.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\System.Web.WebPages.Razor.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\TMDoyle.CrossCutting.Infrastructure.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\TMDoyle.Model.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\TMDoyle.Repository.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\TMDoyle.Service.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Unity.Abstractions.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Unity.Container.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Unity.Mvc.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\WebActivatorEx.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\WebGrease.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\log4net.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\TMDoyle.Common.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\AutoMapper.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\TMDoyle.CrossCutting.Infrastructure.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\TMDoyle.Model.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\TMDoyle.Repository.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\TMDoyle.Service.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.AI.DependencyCollector.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.AI.Web.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.AI.WindowsServer.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.ApplicationInsights.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Practices.ServiceLocation.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Practices.ServiceLocation.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\System.Web.Helpers.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\System.Web.Mvc.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\System.Web.Optimization.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\System.Web.Razor.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\System.Web.WebPages.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\System.Web.WebPages.Deployment.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\System.Web.WebPages.Razor.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Unity.Mvc.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Antlr3.Runtime.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Newtonsoft.Json.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\EntityFramework.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\EntityFramework.SqlServer.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.AspNet.Identity.Core.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.AspNet.Identity.Owin.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Owin.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.Facebook.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.Cookies.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.OAuth.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.Google.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.Twitter.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\log4net.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\TMDoyle.Common.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\bin\AutoMapper.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\obj\Release\TMDoyle.csprojResolveAssemblyReference.cache
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\obj\Release\TMDoyle.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle\obj\Release\TMDoyle.pdb
+F:\Resturant\TMDoyle\TMDoyle\bin\ApplicationInsights.config
+F:\Resturant\TMDoyle\TMDoyle\bin\roslyn\csc.exe
+F:\Resturant\TMDoyle\TMDoyle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Resturant\TMDoyle\TMDoyle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Resturant\TMDoyle\TMDoyle\bin\roslyn\System.Collections.Immutable.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\roslyn\System.Reflection.Metadata.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\roslyn\vbc.exe
+F:\Resturant\TMDoyle\TMDoyle\bin\roslyn\VBCSCompiler.exe
+F:\Resturant\TMDoyle\TMDoyle\bin\roslyn\VBCSCompiler.exe.config
+F:\Resturant\TMDoyle\TMDoyle\bin\TMDoyle.dll.config
+F:\Resturant\TMDoyle\TMDoyle\bin\TMDoyle.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\TMDoyle.pdb
+F:\Resturant\TMDoyle\TMDoyle\bin\Antlr3.Runtime.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Bootstrapper.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\EntityFramework.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\EntityFramework.SqlServer.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.AI.DependencyCollector.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.AI.Web.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.AI.WindowsServer.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.ApplicationInsights.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Owin.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.Google.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Practices.ServiceLocation.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Web.Infrastructure.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Newtonsoft.Json.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Owin.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\System.Web.Helpers.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\System.Web.Mvc.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\System.Web.Optimization.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\System.Web.Razor.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\System.Web.WebPages.Deployment.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\System.Web.WebPages.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\System.Web.WebPages.Razor.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\TMDoyle.CrossCutting.Infrastructure.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\TMDoyle.Model.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\TMDoyle.Repository.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\TMDoyle.Service.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Unity.Abstractions.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Unity.Container.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\Unity.Mvc.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\WebActivatorEx.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\WebGrease.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\log4net.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\TMDoyle.Common.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\AutoMapper.dll
+F:\Resturant\TMDoyle\TMDoyle\bin\TMDoyle.CrossCutting.Infrastructure.pdb
+F:\Resturant\TMDoyle\TMDoyle\bin\TMDoyle.Model.pdb
+F:\Resturant\TMDoyle\TMDoyle\bin\TMDoyle.Repository.pdb
+F:\Resturant\TMDoyle\TMDoyle\bin\TMDoyle.Service.pdb
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.AI.DependencyCollector.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.AI.Web.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.AI.WindowsServer.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.ApplicationInsights.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Practices.ServiceLocation.pdb
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Practices.ServiceLocation.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\System.Web.Helpers.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\System.Web.Mvc.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\System.Web.Optimization.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\System.Web.Razor.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\System.Web.WebPages.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\System.Web.WebPages.Deployment.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\System.Web.WebPages.Razor.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Unity.Mvc.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Antlr3.Runtime.pdb
+F:\Resturant\TMDoyle\TMDoyle\bin\Newtonsoft.Json.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\EntityFramework.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\EntityFramework.SqlServer.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Owin.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.Google.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\log4net.xml
+F:\Resturant\TMDoyle\TMDoyle\bin\TMDoyle.Common.pdb
+F:\Resturant\TMDoyle\TMDoyle\bin\AutoMapper.xml
+F:\Resturant\TMDoyle\TMDoyle\obj\Release\TMDoyle.csprojResolveAssemblyReference.cache
+F:\Resturant\TMDoyle\TMDoyle\obj\Release\TMDoyle.dll
+F:\Resturant\TMDoyle\TMDoyle\obj\Release\TMDoyle.pdb

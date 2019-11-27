@@ -1,0 +1,15 @@
+F:\Resturant\Resturant\Resturant.Common\bin\Debug\Resturant.Common.dll
+F:\Resturant\Resturant\Resturant.Common\bin\Debug\Resturant.Common.pdb
+F:\Resturant\Resturant\Resturant.Common\bin\Debug\RestSharp.dll
+F:\Resturant\Resturant\Resturant.Common\bin\Debug\RestSharp.xml
+F:\Resturant\Resturant\Resturant.Common\obj\Debug\Resturant.Common.dll
+F:\Resturant\Resturant\Resturant.Common\obj\Debug\Resturant.Common.pdb
+F:\Resturant\Resturant.Common\bin\Debug\Resturant.Common.dll
+F:\Resturant\Resturant.Common\bin\Debug\Resturant.Common.pdb
+F:\Resturant\Resturant.Common\bin\Debug\RestSharp.dll
+F:\Resturant\Resturant.Common\bin\Debug\RestSharp.xml
+F:\Resturant\Resturant.Common\obj\Debug\Resturant.Common.csprojAssemblyReference.cache
+F:\Resturant\Resturant.Common\obj\Debug\Resturant.Common.csproj.CoreCompileInputs.cache
+F:\Resturant\Resturant.Common\obj\Debug\Resturant.Common.csproj.CopyComplete
+F:\Resturant\Resturant.Common\obj\Debug\Resturant.Common.dll
+F:\Resturant\Resturant.Common\obj\Debug\Resturant.Common.pdb

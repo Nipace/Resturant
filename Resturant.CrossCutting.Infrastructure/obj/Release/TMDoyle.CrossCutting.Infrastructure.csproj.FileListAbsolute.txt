@@ -1,0 +1,12 @@
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Release\TMDoyle.CrossCutting.Infrastructure.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Release\TMDoyle.CrossCutting.Infrastructure.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Release\log4net.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Release\log4net.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\obj\Release\TMDoyle.CrossCutting.Infrastructure.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\obj\Release\TMDoyle.CrossCutting.Infrastructure.pdb
+F:\Resturant\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Release\TMDoyle.CrossCutting.Infrastructure.dll
+F:\Resturant\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Release\TMDoyle.CrossCutting.Infrastructure.pdb
+F:\Resturant\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Release\log4net.dll
+F:\Resturant\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Release\log4net.xml
+F:\Resturant\TMDoyle\TMDoyle.CrossCutting.Infrastructure\obj\Release\TMDoyle.CrossCutting.Infrastructure.dll
+F:\Resturant\TMDoyle\TMDoyle.CrossCutting.Infrastructure\obj\Release\TMDoyle.CrossCutting.Infrastructure.pdb

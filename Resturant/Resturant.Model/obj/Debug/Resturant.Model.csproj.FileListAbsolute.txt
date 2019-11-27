@@ -1,0 +1,4 @@
+F:\Resturant\Resturant\Resturant.Model\bin\Debug\Resturant.Model.dll
+F:\Resturant\Resturant\Resturant.Model\bin\Debug\Resturant.Model.pdb
+F:\Resturant\Resturant\Resturant.Model\obj\Debug\Resturant.Model.dll
+F:\Resturant\Resturant\Resturant.Model\obj\Debug\Resturant.Model.pdb

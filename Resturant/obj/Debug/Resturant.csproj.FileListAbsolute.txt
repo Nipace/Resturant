@@ -1,0 +1,288 @@
+F:\Resturant\TMDoyle\Resturant\bin\roslyn\csc.exe
+F:\Resturant\TMDoyle\Resturant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Resturant\TMDoyle\Resturant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Resturant\TMDoyle\Resturant\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Resturant\TMDoyle\Resturant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Resturant\TMDoyle\Resturant\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Resturant\TMDoyle\Resturant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Resturant\TMDoyle\Resturant\bin\roslyn\System.Collections.Immutable.dll
+F:\Resturant\TMDoyle\Resturant\bin\roslyn\System.Reflection.Metadata.dll
+F:\Resturant\TMDoyle\Resturant\bin\roslyn\vbc.exe
+F:\Resturant\TMDoyle\Resturant\bin\roslyn\VBCSCompiler.exe
+F:\Resturant\TMDoyle\Resturant\bin\roslyn\VBCSCompiler.exe.config
+F:\Resturant\TMDoyle\Resturant\bin\Resturant.dll.config
+F:\Resturant\TMDoyle\Resturant\bin\Resturant.dll
+F:\Resturant\TMDoyle\Resturant\bin\Resturant.pdb
+F:\Resturant\TMDoyle\Resturant\bin\Antlr3.Runtime.dll
+F:\Resturant\TMDoyle\Resturant\bin\EntityFramework.dll
+F:\Resturant\TMDoyle\Resturant\bin\EntityFramework.SqlServer.dll
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.Owin.dll
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.Owin.Security.dll
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.Owin.Security.Google.dll
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.Web.Infrastructure.dll
+F:\Resturant\TMDoyle\Resturant\bin\Newtonsoft.Json.dll
+F:\Resturant\TMDoyle\Resturant\bin\Owin.dll
+F:\Resturant\TMDoyle\Resturant\bin\System.Web.Helpers.dll
+F:\Resturant\TMDoyle\Resturant\bin\System.Web.Mvc.dll
+F:\Resturant\TMDoyle\Resturant\bin\System.Web.Optimization.dll
+F:\Resturant\TMDoyle\Resturant\bin\System.Web.Razor.dll
+F:\Resturant\TMDoyle\Resturant\bin\System.Web.WebPages.Deployment.dll
+F:\Resturant\TMDoyle\Resturant\bin\System.Web.WebPages.dll
+F:\Resturant\TMDoyle\Resturant\bin\System.Web.WebPages.Razor.dll
+F:\Resturant\TMDoyle\Resturant\bin\TMDoyle.Model.dll
+F:\Resturant\TMDoyle\Resturant\bin\WebGrease.dll
+F:\Resturant\TMDoyle\Resturant\bin\TMDoyle.Model.pdb
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Resturant\TMDoyle\Resturant\bin\System.Web.Helpers.xml
+F:\Resturant\TMDoyle\Resturant\bin\System.Web.Mvc.xml
+F:\Resturant\TMDoyle\Resturant\bin\System.Web.Optimization.xml
+F:\Resturant\TMDoyle\Resturant\bin\System.Web.Razor.xml
+F:\Resturant\TMDoyle\Resturant\bin\System.Web.WebPages.xml
+F:\Resturant\TMDoyle\Resturant\bin\System.Web.WebPages.Deployment.xml
+F:\Resturant\TMDoyle\Resturant\bin\System.Web.WebPages.Razor.xml
+F:\Resturant\TMDoyle\Resturant\bin\Antlr3.Runtime.pdb
+F:\Resturant\TMDoyle\Resturant\bin\Newtonsoft.Json.xml
+F:\Resturant\TMDoyle\Resturant\bin\EntityFramework.xml
+F:\Resturant\TMDoyle\Resturant\bin\EntityFramework.SqlServer.xml
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.Owin.xml
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.Owin.Security.xml
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.Owin.Security.Google.xml
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Resturant\TMDoyle\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Resturant\TMDoyle\Resturant\obj\Debug\Resturant.csprojResolveAssemblyReference.cache
+F:\Resturant\TMDoyle\Resturant\obj\Debug\Resturant.dll
+F:\Resturant\TMDoyle\Resturant\obj\Debug\Resturant.pdb
+F:\Resturant\Resturant\Resturant\bin\roslyn\csc.exe
+F:\Resturant\Resturant\Resturant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Resturant\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Resturant\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Resturant\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Resturant\Resturant\Resturant\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Resturant\Resturant\Resturant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Resturant\Resturant\Resturant\bin\roslyn\System.Collections.Immutable.dll
+F:\Resturant\Resturant\Resturant\bin\roslyn\System.Reflection.Metadata.dll
+F:\Resturant\Resturant\Resturant\bin\roslyn\vbc.exe
+F:\Resturant\Resturant\Resturant\bin\roslyn\VBCSCompiler.exe
+F:\Resturant\Resturant\Resturant\bin\roslyn\VBCSCompiler.exe.config
+F:\Resturant\Resturant\Resturant\bin\Resturant.dll.config
+F:\Resturant\Resturant\Resturant\bin\Resturant.dll
+F:\Resturant\Resturant\Resturant\bin\Resturant.pdb
+F:\Resturant\Resturant\Resturant\bin\Antlr3.Runtime.dll
+F:\Resturant\Resturant\Resturant\bin\EntityFramework.dll
+F:\Resturant\Resturant\Resturant\bin\EntityFramework.SqlServer.dll
+F:\Resturant\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Resturant\Resturant\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Resturant\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Resturant\Resturant\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Resturant\Resturant\Resturant\bin\Microsoft.Owin.dll
+F:\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.dll
+F:\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.Google.dll
+F:\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Resturant\Resturant\Resturant\bin\Microsoft.Web.Infrastructure.dll
+F:\Resturant\Resturant\Resturant\bin\Newtonsoft.Json.dll
+F:\Resturant\Resturant\Resturant\bin\Owin.dll
+F:\Resturant\Resturant\Resturant\bin\Resturant.Model.dll
+F:\Resturant\Resturant\Resturant\bin\System.Web.Helpers.dll
+F:\Resturant\Resturant\Resturant\bin\System.Web.Mvc.dll
+F:\Resturant\Resturant\Resturant\bin\System.Web.Optimization.dll
+F:\Resturant\Resturant\Resturant\bin\System.Web.Razor.dll
+F:\Resturant\Resturant\Resturant\bin\System.Web.WebPages.Deployment.dll
+F:\Resturant\Resturant\Resturant\bin\System.Web.WebPages.dll
+F:\Resturant\Resturant\Resturant\bin\System.Web.WebPages.Razor.dll
+F:\Resturant\Resturant\Resturant\bin\WebGrease.dll
+F:\Resturant\Resturant\Resturant\bin\Resturant.Model.pdb
+F:\Resturant\Resturant\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Resturant\Resturant\Resturant\bin\System.Web.Helpers.xml
+F:\Resturant\Resturant\Resturant\bin\System.Web.Mvc.xml
+F:\Resturant\Resturant\Resturant\bin\System.Web.Optimization.xml
+F:\Resturant\Resturant\Resturant\bin\System.Web.Razor.xml
+F:\Resturant\Resturant\Resturant\bin\System.Web.WebPages.xml
+F:\Resturant\Resturant\Resturant\bin\System.Web.WebPages.Deployment.xml
+F:\Resturant\Resturant\Resturant\bin\System.Web.WebPages.Razor.xml
+F:\Resturant\Resturant\Resturant\bin\Antlr3.Runtime.pdb
+F:\Resturant\Resturant\Resturant\bin\Newtonsoft.Json.xml
+F:\Resturant\Resturant\Resturant\bin\EntityFramework.xml
+F:\Resturant\Resturant\Resturant\bin\EntityFramework.SqlServer.xml
+F:\Resturant\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Resturant\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Resturant\Resturant\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Resturant\Resturant\Resturant\bin\Microsoft.Owin.xml
+F:\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.xml
+F:\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.Google.xml
+F:\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Resturant\Resturant\Resturant\obj\Debug\Resturant.csprojResolveAssemblyReference.cache
+F:\Resturant\Resturant\Resturant\obj\Debug\Resturant.dll
+F:\Resturant\Resturant\Resturant\obj\Debug\Resturant.pdb
+F:\Resturant\Resturant\bin\roslyn\csc.exe
+F:\Resturant\Resturant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Resturant\Resturant\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Resturant\Resturant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Resturant\Resturant\bin\roslyn\System.Collections.Immutable.dll
+F:\Resturant\Resturant\bin\roslyn\System.Reflection.Metadata.dll
+F:\Resturant\Resturant\bin\roslyn\vbc.exe
+F:\Resturant\Resturant\bin\roslyn\VBCSCompiler.exe
+F:\Resturant\Resturant\bin\roslyn\VBCSCompiler.exe.config
+F:\Resturant\Resturant\bin\Resturant.dll.config
+F:\Resturant\Resturant\bin\Resturant.dll
+F:\Resturant\Resturant\bin\Resturant.pdb
+F:\Resturant\Resturant\bin\Antlr3.Runtime.dll
+F:\Resturant\Resturant\bin\EntityFramework.dll
+F:\Resturant\Resturant\bin\EntityFramework.SqlServer.dll
+F:\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Resturant\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Resturant\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Resturant\Resturant\bin\Microsoft.Owin.dll
+F:\Resturant\Resturant\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Resturant\Resturant\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Resturant\Resturant\bin\Microsoft.Owin.Security.dll
+F:\Resturant\Resturant\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Resturant\Resturant\bin\Microsoft.Owin.Security.Google.dll
+F:\Resturant\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Resturant\Resturant\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Resturant\Resturant\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Resturant\Resturant\bin\Microsoft.Web.Infrastructure.dll
+F:\Resturant\Resturant\bin\Newtonsoft.Json.dll
+F:\Resturant\Resturant\bin\Owin.dll
+F:\Resturant\Resturant\bin\Resturant.Model.dll
+F:\Resturant\Resturant\bin\System.Web.Helpers.dll
+F:\Resturant\Resturant\bin\System.Web.Mvc.dll
+F:\Resturant\Resturant\bin\System.Web.Optimization.dll
+F:\Resturant\Resturant\bin\System.Web.Razor.dll
+F:\Resturant\Resturant\bin\System.Web.WebPages.Deployment.dll
+F:\Resturant\Resturant\bin\System.Web.WebPages.dll
+F:\Resturant\Resturant\bin\System.Web.WebPages.Razor.dll
+F:\Resturant\Resturant\bin\WebGrease.dll
+F:\Resturant\Resturant\bin\Resturant.Model.pdb
+F:\Resturant\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Resturant\Resturant\bin\System.Web.Helpers.xml
+F:\Resturant\Resturant\bin\System.Web.Mvc.xml
+F:\Resturant\Resturant\bin\System.Web.Optimization.xml
+F:\Resturant\Resturant\bin\System.Web.Razor.xml
+F:\Resturant\Resturant\bin\System.Web.WebPages.xml
+F:\Resturant\Resturant\bin\System.Web.WebPages.Deployment.xml
+F:\Resturant\Resturant\bin\System.Web.WebPages.Razor.xml
+F:\Resturant\Resturant\bin\Antlr3.Runtime.pdb
+F:\Resturant\Resturant\bin\Newtonsoft.Json.xml
+F:\Resturant\Resturant\bin\EntityFramework.xml
+F:\Resturant\Resturant\bin\EntityFramework.SqlServer.xml
+F:\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Resturant\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Resturant\Resturant\bin\Microsoft.Owin.xml
+F:\Resturant\Resturant\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Resturant\Resturant\bin\Microsoft.Owin.Security.xml
+F:\Resturant\Resturant\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Resturant\Resturant\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Resturant\Resturant\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Resturant\Resturant\bin\Microsoft.Owin.Security.Google.xml
+F:\Resturant\Resturant\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Resturant\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Resturant\Resturant\obj\Debug\Resturant.csprojAssemblyReference.cache
+F:\Resturant\Resturant\obj\Debug\Resturant.csproj.CoreCompileInputs.cache
+F:\Resturant\Resturant\obj\Debug\Resturant.csproj.CopyComplete
+F:\Resturant\Resturant\obj\Debug\Resturant.dll
+F:\Resturant\Resturant\obj\Debug\Resturant.pdb
+F:\Code Backup\Resturant\Resturant\bin\roslyn\csc.exe
+F:\Code Backup\Resturant\Resturant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Code Backup\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Code Backup\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Code Backup\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Code Backup\Resturant\Resturant\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Code Backup\Resturant\Resturant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Code Backup\Resturant\Resturant\bin\roslyn\System.Collections.Immutable.dll
+F:\Code Backup\Resturant\Resturant\bin\roslyn\System.Reflection.Metadata.dll
+F:\Code Backup\Resturant\Resturant\bin\roslyn\vbc.exe
+F:\Code Backup\Resturant\Resturant\bin\roslyn\VBCSCompiler.exe
+F:\Code Backup\Resturant\Resturant\bin\roslyn\VBCSCompiler.exe.config
+F:\Code Backup\Resturant\Resturant\bin\Resturant.dll.config
+F:\Code Backup\Resturant\Resturant\bin\Resturant.dll
+F:\Code Backup\Resturant\Resturant\bin\Resturant.pdb
+F:\Code Backup\Resturant\Resturant\bin\Antlr3.Runtime.dll
+F:\Code Backup\Resturant\Resturant\bin\EntityFramework.dll
+F:\Code Backup\Resturant\Resturant\bin\EntityFramework.SqlServer.dll
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.Owin.dll
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.Owin.Security.dll
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.Owin.Security.Google.dll
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.Web.Infrastructure.dll
+F:\Code Backup\Resturant\Resturant\bin\Newtonsoft.Json.dll
+F:\Code Backup\Resturant\Resturant\bin\Owin.dll
+F:\Code Backup\Resturant\Resturant\bin\Resturant.Model.dll
+F:\Code Backup\Resturant\Resturant\bin\System.Web.Helpers.dll
+F:\Code Backup\Resturant\Resturant\bin\System.Web.Mvc.dll
+F:\Code Backup\Resturant\Resturant\bin\System.Web.Optimization.dll
+F:\Code Backup\Resturant\Resturant\bin\System.Web.Razor.dll
+F:\Code Backup\Resturant\Resturant\bin\System.Web.WebPages.Deployment.dll
+F:\Code Backup\Resturant\Resturant\bin\System.Web.WebPages.dll
+F:\Code Backup\Resturant\Resturant\bin\System.Web.WebPages.Razor.dll
+F:\Code Backup\Resturant\Resturant\bin\WebGrease.dll
+F:\Code Backup\Resturant\Resturant\bin\Resturant.Model.pdb
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Code Backup\Resturant\Resturant\bin\System.Web.Helpers.xml
+F:\Code Backup\Resturant\Resturant\bin\System.Web.Mvc.xml
+F:\Code Backup\Resturant\Resturant\bin\System.Web.Optimization.xml
+F:\Code Backup\Resturant\Resturant\bin\System.Web.Razor.xml
+F:\Code Backup\Resturant\Resturant\bin\System.Web.WebPages.xml
+F:\Code Backup\Resturant\Resturant\bin\System.Web.WebPages.Deployment.xml
+F:\Code Backup\Resturant\Resturant\bin\System.Web.WebPages.Razor.xml
+F:\Code Backup\Resturant\Resturant\bin\Antlr3.Runtime.pdb
+F:\Code Backup\Resturant\Resturant\bin\Newtonsoft.Json.xml
+F:\Code Backup\Resturant\Resturant\bin\EntityFramework.xml
+F:\Code Backup\Resturant\Resturant\bin\EntityFramework.SqlServer.xml
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.Owin.xml
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.Owin.Security.xml
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.Owin.Security.Google.xml
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Code Backup\Resturant\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Code Backup\Resturant\Resturant\obj\Debug\Resturant.csprojAssemblyReference.cache
+F:\Code Backup\Resturant\Resturant\obj\Debug\Resturant.csproj.CoreCompileInputs.cache
+F:\Code Backup\Resturant\Resturant\obj\Debug\Resturant.csproj.CopyComplete
+F:\Code Backup\Resturant\Resturant\obj\Debug\Resturant.dll
+F:\Code Backup\Resturant\Resturant\obj\Debug\Resturant.pdb

@@ -1,0 +1,14 @@
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Common\bin\Debug\TMDoyle.Common.dll
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Common\bin\Debug\TMDoyle.Common.pdb
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Common\obj\Debug\TMDoyle.Common.dll
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Common\obj\Debug\TMDoyle.Common.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Common\bin\Debug\TMDoyle.Common.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Common\bin\Debug\TMDoyle.Common.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Common\obj\Debug\TMDoyle.Common.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Common\obj\Debug\TMDoyle.Common.pdb
+F:\Resturant\TMDoyle\TMDoyle.Common\bin\Debug\TMDoyle.Common.dll
+F:\Resturant\TMDoyle\TMDoyle.Common\bin\Debug\TMDoyle.Common.pdb
+F:\Resturant\TMDoyle\TMDoyle.Common\bin\Debug\RestSharp.dll
+F:\Resturant\TMDoyle\TMDoyle.Common\bin\Debug\RestSharp.xml
+F:\Resturant\TMDoyle\TMDoyle.Common\obj\Debug\TMDoyle.Common.dll
+F:\Resturant\TMDoyle\TMDoyle.Common\obj\Debug\TMDoyle.Common.pdb

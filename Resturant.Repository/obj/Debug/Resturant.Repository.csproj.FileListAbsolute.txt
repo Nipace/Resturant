@@ -1,0 +1,17 @@
+F:\Resturant\Resturant\Resturant.Repository\obj\Debug\Resturant.Repository.csprojResolveAssemblyReference.cache
+F:\Resturant\Resturant.Repository\obj\Debug\Resturant.Repository.csprojAssemblyReference.cache
+F:\Resturant\Resturant.Repository\obj\Debug\Resturant.Repository.csproj.CoreCompileInputs.cache
+F:\Resturant\Resturant.Repository\bin\Debug\Resturant.Repository.dll.config
+F:\Resturant\Resturant.Repository\bin\Debug\Resturant.Repository.dll
+F:\Resturant\Resturant.Repository\bin\Debug\Resturant.Repository.pdb
+F:\Resturant\Resturant.Repository\bin\Debug\EntityFramework.dll
+F:\Resturant\Resturant.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\Resturant\Resturant.Repository\bin\Debug\Resturant.Common.dll
+F:\Resturant\Resturant.Repository\bin\Debug\RestSharp.dll
+F:\Resturant\Resturant.Repository\bin\Debug\Resturant.Common.pdb
+F:\Resturant\Resturant.Repository\bin\Debug\EntityFramework.xml
+F:\Resturant\Resturant.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\Resturant\Resturant.Repository\bin\Debug\RestSharp.xml
+F:\Resturant\Resturant.Repository\obj\Debug\Resturant.Repository.csproj.CopyComplete
+F:\Resturant\Resturant.Repository\obj\Debug\Resturant.Repository.dll
+F:\Resturant\Resturant.Repository\obj\Debug\Resturant.Repository.pdb

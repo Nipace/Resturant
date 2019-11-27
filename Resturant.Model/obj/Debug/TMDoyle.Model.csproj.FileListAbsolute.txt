@@ -1,0 +1,13 @@
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Model\bin\Debug\TMDoyle.Model.dll
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Model\bin\Debug\TMDoyle.Model.pdb
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Model\obj\Debug\TMDoyle.Model.csprojResolveAssemblyReference.cache
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Model\obj\Debug\TMDoyle.Model.dll
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Model\obj\Debug\TMDoyle.Model.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Model\bin\Debug\TMDoyle.Model.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Model\bin\Debug\TMDoyle.Model.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Model\obj\Debug\TMDoyle.Model.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Model\obj\Debug\TMDoyle.Model.pdb
+F:\Resturant\TMDoyle\TMDoyle.Model\bin\Debug\TMDoyle.Model.dll
+F:\Resturant\TMDoyle\TMDoyle.Model\bin\Debug\TMDoyle.Model.pdb
+F:\Resturant\TMDoyle\TMDoyle.Model\obj\Debug\TMDoyle.Model.dll
+F:\Resturant\TMDoyle\TMDoyle.Model\obj\Debug\TMDoyle.Model.pdb

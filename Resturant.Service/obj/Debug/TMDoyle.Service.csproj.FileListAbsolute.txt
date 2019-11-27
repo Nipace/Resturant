@@ -1,0 +1,47 @@
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Service.dll
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Service.pdb
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\AutoMapper.dll
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Model.dll
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Repository.dll
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\EntityFramework.dll
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Common.dll
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Model.pdb
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Repository.pdb
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\AutoMapper.xml
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\EntityFramework.xml
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Common.pdb
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Service\obj\Debug\TMDoyle.Service.csprojResolveAssemblyReference.cache
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Service\obj\Debug\TMDoyle.Service.dll
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Service\obj\Debug\TMDoyle.Service.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Service.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Service.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\AutoMapper.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Model.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Repository.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\EntityFramework.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Common.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Model.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Repository.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\AutoMapper.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\EntityFramework.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Common.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\obj\Debug\TMDoyle.Service.csprojResolveAssemblyReference.cache
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\obj\Debug\TMDoyle.Service.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\obj\Debug\TMDoyle.Service.pdb
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Service.dll
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Service.pdb
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Debug\AutoMapper.dll
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Model.dll
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Repository.dll
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Debug\EntityFramework.dll
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Common.dll
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Debug\RestSharp.dll
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Model.pdb
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Repository.pdb
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Debug\AutoMapper.xml
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Debug\EntityFramework.xml
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Debug\TMDoyle.Common.pdb
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Debug\RestSharp.xml
+F:\Resturant\TMDoyle\TMDoyle.Service\obj\Debug\TMDoyle.Service.csprojResolveAssemblyReference.cache
+F:\Resturant\TMDoyle\TMDoyle.Service\obj\Debug\TMDoyle.Service.dll
+F:\Resturant\TMDoyle\TMDoyle.Service\obj\Debug\TMDoyle.Service.pdb

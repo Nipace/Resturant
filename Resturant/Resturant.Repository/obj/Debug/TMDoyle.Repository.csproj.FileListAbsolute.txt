@@ -1,0 +1,38 @@
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Repository\bin\Debug\TMDoyle.Repository.dll.config
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Repository\bin\Debug\TMDoyle.Repository.dll
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Repository\bin\Debug\TMDoyle.Repository.pdb
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Repository\bin\Debug\EntityFramework.dll
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Repository\bin\Debug\TMDoyle.Common.dll
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Repository\bin\Debug\TMDoyle.Common.pdb
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Repository\bin\Debug\EntityFramework.xml
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Repository\obj\Debug\TMDoyle.Repository.csprojResolveAssemblyReference.cache
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Repository\obj\Debug\TMDoyle.Repository.dll
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Repository\obj\Debug\TMDoyle.Repository.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\bin\Debug\TMDoyle.Repository.dll.config
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\bin\Debug\TMDoyle.Repository.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\bin\Debug\TMDoyle.Repository.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\bin\Debug\EntityFramework.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\bin\Debug\TMDoyle.Common.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\bin\Debug\TMDoyle.Common.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\bin\Debug\EntityFramework.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\obj\Debug\TMDoyle.Repository.csprojResolveAssemblyReference.cache
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\obj\Debug\TMDoyle.Repository.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Repository\obj\Debug\TMDoyle.Repository.pdb
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Debug\TMDoyle.Repository.dll.config
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Debug\TMDoyle.Repository.dll
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Debug\TMDoyle.Repository.pdb
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Debug\EntityFramework.dll
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Debug\TMDoyle.Common.dll
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Debug\RestSharp.dll
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Debug\TMDoyle.Common.pdb
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Debug\EntityFramework.xml
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\Resturant\TMDoyle\TMDoyle.Repository\bin\Debug\RestSharp.xml
+F:\Resturant\TMDoyle\TMDoyle.Repository\obj\Debug\TMDoyle.Repository.csprojResolveAssemblyReference.cache
+F:\Resturant\TMDoyle\TMDoyle.Repository\obj\Debug\TMDoyle.Repository.dll
+F:\Resturant\TMDoyle\TMDoyle.Repository\obj\Debug\TMDoyle.Repository.pdb

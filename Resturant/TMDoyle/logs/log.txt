@@ -1,0 +1,7 @@
+ERROR 2017-12-28 13:10:59,795 140293ms MonitoringLogger       Error              -    at TMDoyle.Controllers.TerminalController.Create(TerminalDTO terminalDTO) in D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle\Controllers\TerminalController.cs:line 68
+ERROR 2017-12-28 13:15:56,076 436574ms MonitoringLogger       Error              -    at TMDoyle.Service.RequestFormatters.TerminlaRequestFormatter.Convert(TerminalDTO terminalDTO)
+   at TMDoyle.Service.Implementation.TerminalService.CreateTerminal(TerminalDTO terminalDTO)
+   at TMDoyle.Controllers.TerminalController.Create(TerminalDTO terminalDTO)
+ERROR 2017-12-28 13:40:42,891 61728ms MonitoringLogger       Error              -    at TMDoyle.Service.RequestFormatters.TerminlaRequestFormatter.Convert(TerminalDTO terminalDTO) in D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Service\RequestFormatters\TerminlaRequestFormatter.cs:line 18
+   at TMDoyle.Service.Implementation.TerminalService.CreateTerminal(TerminalDTO terminalDTO) in D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.Service\Implementation\TerminalService.cs:line 42
+   at TMDoyle.Controllers.TerminalController.Create(TerminalDTO terminalDTO) in D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle\Controllers\TerminalController.cs:line 68

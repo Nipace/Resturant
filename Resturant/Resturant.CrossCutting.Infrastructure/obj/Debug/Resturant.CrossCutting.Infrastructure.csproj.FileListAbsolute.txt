@@ -1,0 +1,7 @@
+F:\Resturant\Resturant\Resturant.CrossCutting.Infrastructure\bin\Debug\Resturant.CrossCutting.Infrastructure.dll
+F:\Resturant\Resturant\Resturant.CrossCutting.Infrastructure\bin\Debug\Resturant.CrossCutting.Infrastructure.pdb
+F:\Resturant\Resturant\Resturant.CrossCutting.Infrastructure\bin\Debug\log4net.dll
+F:\Resturant\Resturant\Resturant.CrossCutting.Infrastructure\bin\Debug\log4net.xml
+F:\Resturant\Resturant\Resturant.CrossCutting.Infrastructure\obj\Debug\Resturant.CrossCutting.Infrastructure.csprojResolveAssemblyReference.cache
+F:\Resturant\Resturant\Resturant.CrossCutting.Infrastructure\obj\Debug\Resturant.CrossCutting.Infrastructure.dll
+F:\Resturant\Resturant\Resturant.CrossCutting.Infrastructure\obj\Debug\Resturant.CrossCutting.Infrastructure.pdb

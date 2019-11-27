@@ -1,0 +1,8 @@
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Model\bin\Release\TMDoyle.Model.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Model\bin\Release\TMDoyle.Model.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Model\obj\Release\TMDoyle.Model.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Model\obj\Release\TMDoyle.Model.pdb
+F:\Resturant\TMDoyle\TMDoyle.Model\bin\Release\TMDoyle.Model.dll
+F:\Resturant\TMDoyle\TMDoyle.Model\bin\Release\TMDoyle.Model.pdb
+F:\Resturant\TMDoyle\TMDoyle.Model\obj\Release\TMDoyle.Model.dll
+F:\Resturant\TMDoyle\TMDoyle.Model\obj\Release\TMDoyle.Model.pdb

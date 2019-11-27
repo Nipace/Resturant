@@ -1,0 +1,32 @@
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Release\TMDoyle.Service.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Release\TMDoyle.Service.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Release\AutoMapper.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Release\TMDoyle.Model.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Release\TMDoyle.Repository.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Release\EntityFramework.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Release\TMDoyle.Common.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Release\TMDoyle.Model.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Release\TMDoyle.Repository.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Release\AutoMapper.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Release\EntityFramework.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\bin\Release\TMDoyle.Common.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\obj\Release\TMDoyle.Service.csprojResolveAssemblyReference.cache
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\obj\Release\TMDoyle.Service.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Service\obj\Release\TMDoyle.Service.pdb
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Release\TMDoyle.Service.dll
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Release\TMDoyle.Service.pdb
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Release\AutoMapper.dll
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Release\TMDoyle.Model.dll
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Release\TMDoyle.Repository.dll
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Release\EntityFramework.dll
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Release\TMDoyle.Common.dll
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Release\RestSharp.dll
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Release\TMDoyle.Model.pdb
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Release\TMDoyle.Repository.pdb
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Release\AutoMapper.xml
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Release\EntityFramework.xml
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Release\TMDoyle.Common.pdb
+F:\Resturant\TMDoyle\TMDoyle.Service\bin\Release\RestSharp.xml
+F:\Resturant\TMDoyle\TMDoyle.Service\obj\Release\TMDoyle.Service.csprojResolveAssemblyReference.cache
+F:\Resturant\TMDoyle\TMDoyle.Service\obj\Release\TMDoyle.Service.dll
+F:\Resturant\TMDoyle\TMDoyle.Service\obj\Release\TMDoyle.Service.pdb

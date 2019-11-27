@@ -1,0 +1,21 @@
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Debug\TMDoyle.CrossCutting.Infrastructure.dll
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Debug\TMDoyle.CrossCutting.Infrastructure.pdb
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Debug\log4net.dll
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Debug\log4net.xml
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\obj\Debug\TMDoyle.CrossCutting.Infrastructure.csprojResolveAssemblyReference.cache
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\obj\Debug\TMDoyle.CrossCutting.Infrastructure.dll
+D:\MY UPWORK\Project in upwork\Project Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\obj\Debug\TMDoyle.CrossCutting.Infrastructure.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Debug\TMDoyle.CrossCutting.Infrastructure.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Debug\TMDoyle.CrossCutting.Infrastructure.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Debug\log4net.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Debug\log4net.xml
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\obj\Debug\TMDoyle.CrossCutting.Infrastructure.csprojResolveAssemblyReference.cache
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\obj\Debug\TMDoyle.CrossCutting.Infrastructure.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.CrossCutting.Infrastructure\obj\Debug\TMDoyle.CrossCutting.Infrastructure.pdb
+F:\Resturant\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Debug\TMDoyle.CrossCutting.Infrastructure.dll
+F:\Resturant\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Debug\TMDoyle.CrossCutting.Infrastructure.pdb
+F:\Resturant\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Debug\log4net.dll
+F:\Resturant\TMDoyle\TMDoyle.CrossCutting.Infrastructure\bin\Debug\log4net.xml
+F:\Resturant\TMDoyle\TMDoyle.CrossCutting.Infrastructure\obj\Debug\TMDoyle.CrossCutting.Infrastructure.dll
+F:\Resturant\TMDoyle\TMDoyle.CrossCutting.Infrastructure\obj\Debug\TMDoyle.CrossCutting.Infrastructure.pdb
+F:\Resturant\TMDoyle\TMDoyle.CrossCutting.Infrastructure\obj\Debug\TMDoyle.CrossCutting.Infrastructure.csprojResolveAssemblyReference.cache

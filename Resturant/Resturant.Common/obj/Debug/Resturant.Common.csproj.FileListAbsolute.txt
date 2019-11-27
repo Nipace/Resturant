@@ -1,0 +1,6 @@
+F:\Resturant\Resturant\Resturant.Common\bin\Debug\Resturant.Common.dll
+F:\Resturant\Resturant\Resturant.Common\bin\Debug\Resturant.Common.pdb
+F:\Resturant\Resturant\Resturant.Common\bin\Debug\RestSharp.dll
+F:\Resturant\Resturant\Resturant.Common\bin\Debug\RestSharp.xml
+F:\Resturant\Resturant\Resturant.Common\obj\Debug\Resturant.Common.dll
+F:\Resturant\Resturant\Resturant.Common\obj\Debug\Resturant.Common.pdb

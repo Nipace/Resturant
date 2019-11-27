@@ -1,0 +1,10 @@
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Common\bin\Release\TMDoyle.Common.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Common\bin\Release\TMDoyle.Common.pdb
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Common\obj\Release\TMDoyle.Common.dll
+Z:\Code Backup\Skeleton\TMDoyle\TMDoyle.Common\obj\Release\TMDoyle.Common.pdb
+F:\Resturant\TMDoyle\TMDoyle.Common\bin\Release\TMDoyle.Common.dll
+F:\Resturant\TMDoyle\TMDoyle.Common\bin\Release\TMDoyle.Common.pdb
+F:\Resturant\TMDoyle\TMDoyle.Common\bin\Release\RestSharp.dll
+F:\Resturant\TMDoyle\TMDoyle.Common\bin\Release\RestSharp.xml
+F:\Resturant\TMDoyle\TMDoyle.Common\obj\Release\TMDoyle.Common.dll
+F:\Resturant\TMDoyle\TMDoyle.Common\obj\Release\TMDoyle.Common.pdb
